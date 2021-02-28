@@ -2,6 +2,7 @@
 
 * [FAQ](README.md)
 * [Driving Questions](driving-questions.md)
+* [Discussion](discussion.md)
 
 ## Contributing Initiatives
 
