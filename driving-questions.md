@@ -6,7 +6,9 @@
 
 ## What kind of use agreements do we need for value generated/borrowed within the commons \(if any\) ?
 
-W
+
+
+\[add yours!\]
 
 
 

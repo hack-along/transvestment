@@ -6,34 +6,40 @@ description: >-
 
 # FAQ
 
-Context: I would like to dedicate myself to something that is needed in the world.
+Stakeholders
 
-* How can i work in a peaceful and cooperative environment, free of coercion?
-* How can i get access to everything i need?
-* What is expected from me?
-* What are the benefits?
 * What are the 'producers'? What's in it for them?
 * What are the  'consumers'? What's in it for them?
 * What are the 'investors'? What's in it for them?
-  * Investors are 
 * What's in it for the planet?
+
+Context: I would like to dedicate my time to something that is needed in the world.
+
+* What is expected from me?
+* How can i learn the skills i require?
+* How can i see where i am needed?
+* What are the benefits?
+* How can i work in a peaceful and cooperative environment, free of coercion?
+* How can i get access to things i need?
 * What happens when someone  breaches the agreement?
-* What license is any content released in?
-  * This is left on the producers, projects commons-based peer production license, or GPL
+* What license is my work released in?
 
+Context: I am an investor who would like to sponsor a peer production initiative
 
+* What is my expected return on investment?
+* How can i pick the projects that i believe in?
+* What is my money / assets going to be used for?
+* What if i change my mind?
+* 
+Context: I am a customer who would like to purchase an item/service
 
-Context: I am an investor who would like to sponsor
+* How do i find what products/services are available in my area?
+* How do i make sure i am receiving it?
+* What happens if the product  is broken/ it doesn't work?
+* What happens if the quality of the service is not satisfactory?
+* How can i return the item / get a refund?
+* 
 
-
-
-
-
-  
-[https://async.hackalong.io/t/transitional-basic-income/77](https://async.hackalong.io/t/transitional-basic-income/77)  
-
-
-[https://async.hackalong.io/t/risks-rewards-under-a-basic-income-system-discussion/73](https://async.hackalong.io/t/risks-rewards-under-a-basic-income-system-discussion/73)
 
 
 
