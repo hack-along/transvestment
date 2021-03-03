@@ -1,3 +1,7 @@
+---
+description: We can hold property and promises for the future production they assure.
+---
+
 # For Future Product
 
 When a home is owner-occupied, rent no longer flows.  
