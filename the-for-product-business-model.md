@@ -1,0 +1,72 @@
+---
+description: >-
+  Empower groups-of-groups to own and control the production of essential goods
+  and services.
+---
+
+# The For Product Business Model
+
+### Definitions
+
+* Product Tickets represent future goods and services.
+* Work Agreements represent legally binding commitments to achieve future production.
+* Source Titles represent property ownership in land, tools, and other productive assets.
+
+### Terms of Operation
+
+* You may buy Product Tickets with money to receive that future good or service, just like crowdfunding.
+* You may buy Product Tickets by signing Work Agreements to achieve some future production in the system.
+* When paying with Work Agreements, you also receive Source Title ownership as that production is completed.
+* As a Source Title owner, you may decide what must and must not be produced on that land.
+* As a Source Title owner, you must supply the work required for that production, or sign Work Agreements to fill other requests in the system.  You must have a chain-of-exchange to those other requests.
+* As a Source Title owner, you are the _automatic_ owner of all future production on that land.
+* These terms must work when co-owing in groups and groups-of-groups, in a fractal way.
+
+### Pilot Project Startup Timeline
+
+* Find raw land for sale outside of city limits to build a self-hosted micro-city.
+* Verify which essential goods and services can be produced at this location.
+* Issue and auction Product Tickets to secure land and tools startup supplies without debt.
+* Issue and auction Source Titles to secure Work Agreement signatures.
+* If both auctions succeed, the property is purchased and production begins!
+
+### User Interface
+
+#### "'Buy Product Ticket'"
+
+* Pay with future work or money to receive a time-delayed good or service.
+* Workers implicitly trade with other workers in this way. \(work-for-work\)
+
+#### "'Bid-to-sign Work Agreement'" \[This is how you pay with future work.\]
+
+* Qualify by passing tests.  All jobs have apprentice onboarding. \(work-to-learn\)
+* Receive immediate access to essential goods and services. \(sign-to-use\)
+* Workers gain Source Titles as Work Agreements are completed. \(work-to-own\)
+* Trade Work Agreements for signatures of others. \(work-for-work\)
+
+#### "'Issue Source Titles'"
+
+* Show map of land for sale, with default being nearest that user.
+* Zoom in to see water rights and zoning restrictions.
+* Show Product Ticket proposals and funding status.
+* Change \(your version of\) a map to vote on the layout.
+* Owners of Source Titles receive future products without purchase. \(own-to-use\)
+* For each ZONE,
+  * Show pending Product Ticket proposals and funding status.
+  * Show water-rights, mineral-rights, external restrictions.
+
+#### "'Define New Product Ticket'" \[Recipe for that production.\]
+
+* List work and sources required to create that product.
+* List delivery schedules and production constraints.
+* List pollution and any unavoidable externalities.
+* Change \(your version of\) any Product Ticket to vote on future production.
+* For each Product,
+  * Define SERVING-SIZE and MIN-SCALE.
+  * Estimate production constraints like temperature, water, elevation.
+  * Estimate time delay to complete each round-of-production \(first will usually be longest\).
+  * Estimate pollution and other externalities.
+  * For each SERVING-SIZE at MIN-SCALE,
+    * Estimate projected quality and quantity
+    * Estimate land, work tools and startup supplies to begin.
+

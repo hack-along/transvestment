@@ -14,3 +14,7 @@
 * [Egalitarian Community Framework](contributing-initiatives/egalitarian-community-framework.md)
 * [Holons](contributing-initiatives/holons.md)
 
+---
+
+* [The For Product Business Model](the-for-product-business-model.md)
+
